@@ -1,6 +1,6 @@
 # Assignment-2.15
 
-1.What is needed to authorize your EC2 to retrieve secrets from the AWS Secret Manager?
+1. What is needed to authorize your EC2 to retrieve secrets from the AWS Secret Manager?
 
 2. Derive the IAM policy (i.e. JSON)?
 
